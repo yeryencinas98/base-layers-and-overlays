@@ -1,4 +1,4 @@
-# PolygonSelector
+# Base layers and overlays
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
 
@@ -58,8 +58,12 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 Install open layers
 
+```bash
 npm install ol
+```
 
 ol-ext is a set of extensions, controls, interactions and popups for use with Openlayers.
 
+```bash
 npm i ol-ext
+```
